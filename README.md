@@ -1,2 +1,2 @@
 # particle-simulator
-A particle simulator to simulate gravitational and electrostatic attraction on particles.
+A particle simulator to simulate gravitational and electrostatic influence on particles.
